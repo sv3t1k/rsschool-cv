@@ -30,3 +30,15 @@ I am ready for new challenges and ready to share my energy with those who share 
 1. Git(Basic)
 1. Python(Basic)
 1. Photoshop
+   
+**Code**
+
+```
+let myName = "Svyat";
+console.log("Привет, " + myName + "!");
+let age = 20;
+age++;
+console.log("Теперь мне " + age + " лет.");
+```
+
+***
