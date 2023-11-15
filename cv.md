@@ -42,3 +42,23 @@ console.log("Теперь мне " + age + " лет.");
 ```
 
 ***
+
+**Education**
+
+Graduated from Gomel State Engineering College.
+I have a secondary technical education.
+Specialty - maintenance of technological equipment and robotics in automated production.
+Position - Electronics technician (+ Cnc operator).
+
+***
+
+**Languages**
+
+- polish A2(I have been living in Poland for one year now)
+- english ~=A2(I'm not sure if I have B1, but my English teacher said a year ago that I have B1. Since I haven't spoken English for a long time, I'll consider my level as A2)
+
+***
+
+***
+
+![ржака смешно посмеялись да](/rzaka.jpg)
